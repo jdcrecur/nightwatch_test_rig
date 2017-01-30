@@ -1,0 +1,10 @@
+{
+  "name": "base_e2e_test_rig",
+  "version": "0.0.1",
+  "description": "Base e2e test rig using the nightwatch test runner",
+  "author": "John Carmichael",
+  "dependencies": {
+    "jdc-node-cliarg-reader": "1.0.0",
+    "lodash":"latest"
+  }
+}
